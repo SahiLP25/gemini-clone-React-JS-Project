@@ -28,19 +28,18 @@ To get a local copy up and running, follow these simple steps:
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/SahiLP25/google-gemini-clone.git
+    git clone https://github.com/SahiLP25/gemini-clone-React-JS-Project
+
     ```
 2. **Navigate to the project directory:**
-    ```bash
-    cd google-gemini-clone
-    ```
+   
 3. **Install dependencies:**
     ```bash
     npm install
     ```
 4. **Start the development server:**
     ```bash
-    npm start
+    npm run dev
     ```
 
 The application will open in your default browser at `http://localhost:3000`.
